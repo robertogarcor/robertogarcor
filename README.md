@@ -1,4 +1,13 @@
-### Hi there 👋, mi nombre es Roberto.  
+## 👋 Hi there, mi nombre es Roberto.  
+
+I'm Full-Stack Developer Web and Android. 
+
+### Skills:
+
+https://img.shields.io/badge/android-android-#3DDC84?style=for-the-badge&logo=android
+
+### Contact me:
+
 
 <!--
 **robertogarcor/robertogarcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
