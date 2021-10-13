@@ -1,6 +1,6 @@
 # 👋 Hi there, mi nombre es Roberto.  
 
-#### Full-Stack Web and Android Developer
+### Full-Stack Web and Android Developer
 
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
