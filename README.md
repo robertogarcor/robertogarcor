@@ -21,7 +21,7 @@ tecnologías y lenguajes de programación, que han llamado mi atención y curios
 Y aunque no está todo...;), iré ampliándolo a modo de tener una fuente de consulta.
 
 Actualmente adquiriendo buenas prácticas en el desarrollo, enfocado en Kotlin y su ecosistema
-para el desarrollo Android y Back-end, y con gran interés en profundizar en el mundo python
+para el desarrollo Android y Back-end, y con gran interés en profundizar en el mundo Python
 con Flask, Django y el stack en Angular, creo me parecen de lo mejor, y sí..., mucho que aprender,
 la tecnología está para probarla y usarla. 
 
