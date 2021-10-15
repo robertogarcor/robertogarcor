@@ -1,8 +1,36 @@
-# 👋 Hi there, mi nombre es Roberto.  
+# 👋 Hi there, mi nombre es Roberto 
 
 ### Full-Stack Web and Android Developer
 
-## Skills:
+Con más de 10 años de dedicados al mundo de la informática. Comencé mi carrera desempeñando funciones
+como técnico y administrador de sistemas, habilidad que me ha llevado a tener una mejor compresión
+de la informática en general.
+
+En el 2015, decidí enfocarme en el desarrollo de sotfware, encajaba mejor
+con mi entusiasmo y desarrollar aplicaciones Web me parecía muy interesante, creativo y con 
+muchas posibilidades.  Al tiempo, mi curiosidad por el mundo mobile y gracias a varias 
+oportunidades laborales, me adentré en el desarrollo de aplicaciones para Android, 
+lo cual fue un reto para mí y una forma de aplicar mis conocimientos Web adquiridos.
+
+En los últimos años, he seguido formándome en estas áreas de manera autodicta, desarrollando proyectos
+a nivel personal y prestado mis servicios a empresas como profesional, dándome formación y 
+experiencia para ser mejor desarrollador.
+
+En mi Git encontrarás desde ejemplos simples a proyectos completos desarrollados con diversas
+tecnologías y lenguajes de programación, que han llamado mi atención y curiosidad por aprender.
+Y aunque no está todo...;), iré ampliándolo a modo de tener una fuente de consulta.
+
+Actualmente adquiriendo buenas prácticas en el desarrollo, enfocado en Kotlin y su ecosistema
+para el desarrollo Android y Back-end, y con gran interés en profundizar en el mundo python
+con Flask, Django y el stack en Angular, creo me parecen de lo mejor, y sí..., mucho que aprender,
+la tecnología está para provarla y usarla. 
+
+Si mis habilidades y conocimientos como desarrollador pueden aportar y ayudar a cubrir tus 
+necesidades e inquietudes, házmelo saber contactando conmigo.
+
+Un saludo y espero te sea de utilidad, ...:)
+
+## Skills and knowledge:
 ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-%233DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)
