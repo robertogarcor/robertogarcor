@@ -6,7 +6,7 @@ Con más de 10 años de dedicados al mundo de la informática. Comencé mi carre
 como técnico y administrador de sistemas, habilidad que me ha llevado a tener una mejor compresión
 de la informática en general.
 
-En el 2015, decidí enfocarme en el desarrollo de sotfware, encajaba mejor
+En 2015, decidí enfocarme en el desarrollo de sotfware, encajaba mejor
 con mi entusiasmo y desarrollar aplicaciones Web me parecía muy interesante, creativo y con 
 muchas posibilidades.  Al tiempo, mi curiosidad por el mundo mobile y gracias a varias 
 oportunidades laborales, me adentré en el desarrollo de aplicaciones para Android, 
@@ -23,7 +23,7 @@ Y aunque no está todo...;), iré ampliándolo a modo de tener una fuente de con
 Actualmente adquiriendo buenas prácticas en el desarrollo, enfocado en Kotlin y su ecosistema
 para el desarrollo Android y Back-end, y con gran interés en profundizar en el mundo python
 con Flask, Django y el stack en Angular, creo me parecen de lo mejor, y sí..., mucho que aprender,
-la tecnología está para provarla y usarla. 
+la tecnología está para probarla y usarla. 
 
 Si mis habilidades y conocimientos como desarrollador pueden aportar y ayudar a cubrir tus 
 necesidades e inquietudes, házmelo saber contactando conmigo.
