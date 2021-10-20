@@ -10,7 +10,7 @@ En 2015, decidí enfocarme en el desarrollo de sotfware, encajaba mejor
 con mi entusiasmo y desarrollar aplicaciones Web me parecía muy interesante, creativo y con 
 muchas posibilidades.  Al tiempo, mi curiosidad por el mundo mobile y gracias a varias 
 oportunidades laborales, me adentré en el desarrollo de aplicaciones para Android, 
-lo cual fue un reto para mí y una forma de aplicar mis conocimientos Web adquiridos.
+lo cual fue un reto para mí y una forma de aplicar mis conocimientos web adquiridos.
 
 En los últimos años, he seguido formándome en estas áreas de manera autodicta, desarrollando proyectos
 a nivel personal y prestado mis servicios a empresas como profesional, dándome formación y 
@@ -20,13 +20,13 @@ En mi Git encontrarás desde ejemplos simples a proyectos completos desarrollado
 tecnologías y lenguajes de programación, que han llamado mi atención y curiosidad por aprender.
 Y aunque no está todo...;), iré ampliándolo a modo de tener una fuente de consulta.
 
-Actualmente adquiriendo buenas prácticas en el desarrollo, enfocado en Kotlin y su ecosistema
+Actualmente adquiriendo buenas prácticas en el desarrollo, Kotlin y su ecosistema
 para el desarrollo Android y Back-end, y con gran interés en profundizar en el mundo Python
-con Flask, Django y el stack en Angular, creo me parecen de lo mejor, y sí..., mucho que aprender,
+con Flask, Django vs Spring Java y el stack en Angular, y sí..., mucho que aprender,
 la tecnología está para probarla y usarla. 
 
-Si mis habilidades y conocimientos como desarrollador pueden aportar y ayudar a cubrir tus 
-necesidades e inquietudes, házmelo saber contactando conmigo.
+Si mis habilidades y conocimientos como desarrollador pueden aportar y ayudarte,
+házmelo saber contactando conmigo.
 
 Un saludo y espero te sea de utilidad, ...:)
 
