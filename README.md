@@ -13,7 +13,7 @@ oportunidades laborales, me adentré en el desarrollo de aplicaciones para Andro
 lo cual fue un reto para mí y una forma de aplicar mis conocimientos web adquiridos.
 
 En los últimos años, he seguido formándome en estas áreas de manera autodicta, desarrollando proyectos
-a nivel personal y prestado mis servicios a empresas como profesional, dándome formación y 
+a nivel personal y prestando mis servicios a empresas como profesional, dándome formación y 
 experiencia para ser mejor desarrollador.
 
 En mi Git encontrarás desde ejemplos simples a proyectos completos desarrollados con diversas
