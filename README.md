@@ -12,7 +12,7 @@ muchas posibilidades.  Al tiempo, mi curiosidad por el mundo mobile y gracias a 
 oportunidades laborales, me adentré en el desarrollo de aplicaciones para Android, 
 lo cual fue un reto para mí y una forma de aplicar mis conocimientos web adquiridos.
 
-En los últimos años, he seguido formándome en estas áreas de manera autodicta desarrollando proyectos
+En los estos años, he seguido formándome en estas áreas de manera autodicta desarrollando proyectos
 a nivel personal y para empresas como profesional, aportándome formación y 
 experiencia para ser mejor desarrollador.
 
