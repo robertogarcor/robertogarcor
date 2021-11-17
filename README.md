@@ -22,7 +22,7 @@ Y aunque no está todo...;), iré ampliándolo a modo de tener una fuente de con
 
 Actualmente adquiriendo buenas prácticas en el desarrollo, Kotlin y su ecosistema
 para el desarrollo Android y Back-end, y con gran interés en profundizar en el mundo Python
-con Flask, Django vs Spring Java y el stack en Angular, y sí..., mucho que aprender,
+con Flask, Django vs Spring Java y el stack en Angular, y siempre con la vista PHP, sí..., mucho que aprender,
 la tecnología está para probarla y usarla. 
 
 Si mis habilidades y conocimientos como desarrollador pueden aportar y ayudarte,
