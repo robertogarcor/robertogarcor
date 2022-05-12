@@ -1,4 +1,4 @@
-![banner](banner/Banner00_v2_1920.png)
+![banner](https://raw.githubusercontent.com/robertogarcor/robertogarcor/main/assets/banner_github_profile.png)
 
 # 👋 Hi there, mi nombre es Roberto 
 
